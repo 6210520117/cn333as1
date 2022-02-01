@@ -19,8 +19,8 @@
 
     <EditText
         android:id="@+id/editText"
-        android:layout_width="203dp"
-        android:layout_height="46dp"
+        android:layout_width="208dp"
+        android:layout_height="50dp"
         android:layout_marginTop="96dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
